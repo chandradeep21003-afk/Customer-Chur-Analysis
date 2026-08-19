@@ -90,7 +90,4 @@ This dashboard provides a comprehensive analysis of customer churn across multip
 ## Author
 
 **Chandradeep Singh**
-
-Aspiring Data Engineer | Power BI • SQL • Excel • Python
-
 [Github]()
